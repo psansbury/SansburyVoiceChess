@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1770894998|5727160659';
+const CACHE_VERSION = '1770896464|339867085';
 /** @type {string} */
 const CACHE_PREFIX = 'Wizard Chess Voi-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
